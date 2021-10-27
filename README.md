@@ -1,7 +1,7 @@
 # Hello 👋
 <div align=left>
 
-  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/NamDoubleY)](https://www.facebook.com/profile.php?id=100011527962164)
+  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/NamDoubleY)](https://www.facebook.com/NamDoubleY/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:DoubleY031223@gmail.com)](mailto:DoubleY031223@gmail.com)
 	
 </div>
