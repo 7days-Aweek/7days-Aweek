@@ -1,10 +1,10 @@
-# Useful Language
-Use the Best   
-    <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=white"/>   
-SoSo   
-    <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=Python&logoColor=white"/>   
-Learning...   
-    <img src="https://img.shields.io/badge/Shell-000000?style=flat-square&logo=Python&logoColor=white"/>   
+# Hello 👋
+<div align=left>
+
+  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/NamDoubleY)](https://www.facebook.com/profile.php?id=100011527962164)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:DoubleY031223@gmail.com)](mailto:DoubleY031223@gmail.com)
+	
+</div>
 <!--
 **llist-df/llist-df** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
