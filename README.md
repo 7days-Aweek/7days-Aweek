@@ -1,7 +1,7 @@
 # Hello 👋
 <div align=left>
 
-  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/NamDoubleY)](https://www.facebook.com/NamDoubleY/)
+  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/nyunhyuk)](https://www.facebook.com/NamDoubleY/)
 	
 </div>
 
