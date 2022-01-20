@@ -5,6 +5,12 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:DoubleY031223@gmail.com)](mailto:DoubleY031223@gmail.com)
 	
 </div>
+
++ #### 서울여자대학교 정보보호영재교육원 7기 교육생
++ #### Team F_Active
+
+<hr>
+
 <!--
 **llist-df/llist-df** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
