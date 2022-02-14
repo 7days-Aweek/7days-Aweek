@@ -1,9 +1,4 @@
 # Hello 👋
-<div align=left>
-
-  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/nyunhyuk)](https://www.facebook.com/NamDoubleY/)
-	
-</div>
 
 + #### 서울여자대학교 정보보호영재교육원 7기 교육생
 + #### Team F_Active
