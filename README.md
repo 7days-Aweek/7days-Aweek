@@ -4,8 +4,8 @@
 + #### Team F_Active 막내
 + #### 국민대학교 정보보안암호수학과 22학번
 <hr>
-- 🔭 I’m currently working on Student
-- 🌱 I’m currently learning Mathmetics & Digital Forensic
++ ## 🔭 I’m currently working on Student
++ ## 🌱 I’m currently learning Mathmetics & Digital Forensic
 
 <!--
 **llist-df/llist-df** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
