@@ -1,10 +1,7 @@
 # Hello 👋
 
 + #### 서울여자대학교 정보보호영재교육원 7기 교육생
-+ #### Team F_Active 막내
 + #### 국민대학교 정보보안암호수학과 22학번
-+ #### 컴퓨터 전공 이과생,,,
-+ #### I'm currently leaning Mathmetics & Digital Forensic
 <hr>
 
 <!--
